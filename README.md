@@ -2,6 +2,10 @@
 
 Flask application that guides a candidate from account setup through resume upload, job application, and an AI-driven mock interview. The web UI is served from the same server as the backend.
 
+# note:
+🔒 The source code is maintained in a private repository.
+📂 This repo contains only documentation and project overview.
+
 ## 🎯 Vision
 Build an Agentic AI application that simulates mock interviews based on a candidate’s resume and job description.  
 Initial form: **chat-based app** → later extended with analytics, personalization, and enterprise features.
@@ -201,3 +205,5 @@ This feedback appears in the UI under **Post-interview feedback**; the full mess
 ## Dependencies
 
 See `requirements.txt`: Flask, PyMongo, bcrypt, pypdf, python-dotenv, PyYAML, langchain-openai, langgraph, langchain-core, tavily-python.
+
+Contact: bsaarun54@gmail.com
